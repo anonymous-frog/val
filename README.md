@@ -39,7 +39,7 @@
 
 ## References 
 
-* [1] CNN-Accelerated Adaptive Video Block Compressive Sensing, Anonymous CVPR 2021 submission, Paper ID 7307
+* [1] paper ref
 * [2] A. Vedaldi and K. Lenc.  Matconvnet – convolutional neural networks for Matlab. In Proceeding of the ACM Int. Conf. on Multimedia, 2015.
 * [3] https://www.vlfeat.org/matconvnet/. 
 * [4] Kai Zhang, Wangmeng Zuo, Yunjin Chen, Deyu Meng, and Lei Zhang. Beyond a gaussian denoiser: Residual learning of deep CNN for image denoising. IEEE Transactions on Image Processing, 26(7):3142–3155, 2017.
